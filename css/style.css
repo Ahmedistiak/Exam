@@ -1,0 +1,159 @@
+*{
+		margin: 0px;
+		padding: 0px;
+
+
+}
+
+.container{
+
+		width: 1140px;
+		margin: 0 auto;
+
+
+}
+
+
+body{
+
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+.banner{
+
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	display: block;
+	background-size: cover;
+	width: 100%;
+	float: left;
+
+
+
+
+}
+
+.banner-one{
+
+		width: 50%;
+    	float: left;
+    	margin: 184px 0;
+
+
+}
+
+
+.banner-one h1{
+
+
+			    color: #00adffa1;
+   				 margin-bottom: 20px;
+	
+}
+
+.banner-one p{
+
+		color: white;
+		    padding: 10px;
+
+
+	
+}
+
+.check{
+
+
+
+
+}
+
+
+.btn{
+
+	background: #00adffa1;
+    color: white;
+    padding: 7px 25px;
+    border: none;
+    border-radius: 21px;
+}
+
+.btn:hover {
+
+
+
+}
+
+
+
+
+.banner-two{
+
+	width: 50%;
+    float: left;
+    margin: 184px 0;
+    background: #00adff9c;
+    text-align: center;
+
+}
+
+
+.banner-content{
+
+		padding: 60px 79px;
+
+
+}
+
+
+.banner-two h1{
+
+
+	color: white;
+    margin: 10px 0;
+
+
+	
+}
+
+.banner-two p{
+
+	color: white;
+    margin-bottom: 19px;
+
+	
+}
+
+
+.form-input{
+
+	width: 55%;
+    display: block;
+    margin: 0 auto;
+    padding: 4px 0;
+    padding-left: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+
+
+.regr{
+
+
+	background: #004eff78;
+    border: none;
+    padding: 12px;
+    width: 164px;
+    color: white;
+    border-radius: 13px;
+
+
+}
+
+
+
